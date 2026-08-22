@@ -1,0 +1,378 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.3 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{none/global//global/global/global}
+    \entry{paper_1}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a77062d41962ddd44663a4118552c6d9}{%
+           family={Chen},
+           familyi={C\bibinitperiod},
+           given={Y.-H.},
+           giveni={Y\bibinithyphendelim H\bibinitperiod}}}%
+      }
+      \strng{namehash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{fullhash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{fullhashraw}{a77062d41962ddd44663a4118552c6d9}
+      \strng{bibnamehash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{authorbibnamehash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{authornamehash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{authorfullhash}{a77062d41962ddd44663a4118552c6d9}
+      \strng{authorfullhashraw}{a77062d41962ddd44663a4118552c6d9}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Solid-State Circuits}
+      \field{title}{Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks}
+      \field{year}{2017}
+    \endentry
+    \entry{paper_2}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9da36d2f95c3a7a2d7d0b61dd862457b}{%
+           family={Jouppi},
+           familyi={J\bibinitperiod},
+           given={N.\bibnamedelimi P.},
+           giveni={N\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{fullhash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{fullhashraw}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{bibnamehash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{authorbibnamehash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{authornamehash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{authorfullhash}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \strng{authorfullhashraw}{9da36d2f95c3a7a2d7d0b61dd862457b}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proceedings of the 44th Annual International Symposium on Computer Architecture (ISCA)}
+      \field{title}{In-Datacenter Performance Analysis of a Tensor Processing Unit}
+      \field{year}{2017}
+    \endentry
+    \entry{paper_3}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4cd836bf0c13aac22b56c3fd38a016db}{%
+           family={Y.-H.\bibnamedelimi Chen},
+           familyi={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.\bibnamedelimi Emer},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={T.-J.\bibnamedelimi Yang},
+           suffixi={T\bibinithyphendelim J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b4f4086d0d8f47552464b33b5cb9217e}{%
+           family={Sze},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{bibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorbibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authornamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \field{extraname}{1}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Emerging and Selected Topics in Circuits and Systems}
+      \field{title}{Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices}
+      \field{year}{2019}
+    \endentry
+    \entry{paper_4}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd6b7ab0cdd5423fc9c28a35aeecd0e9}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={Y.-H.\bibnamedelimi Chen},
+           giveni={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{fullhash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{fullhashraw}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{bibnamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorbibnamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authornamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorfullhash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorfullhashraw}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \field{extraname}{1}
+      \field{sortinit}{5}
+      \field{sortinithash}{20e9b4b0b173788c5dace24730f47d8c}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Emerging and Selected Topics in Circuits and Systems}
+      \field{title}{Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices}
+      \field{year}{2019}
+    \endentry
+    \entry{paper_5}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=f837a1acb54e55fa6024e06870ace9bc}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={M.\bibnamedelimi A.},
+           giveni={M\bibinitperiod\bibinitdelim A\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{fullhash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{fullhashraw}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{bibnamehash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{authorbibnamehash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{authornamehash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{authorfullhash}{f837a1acb54e55fa6024e06870ace9bc}
+      \strng{authorfullhashraw}{f837a1acb54e55fa6024e06870ace9bc}
+      \field{extraname}{2}
+      \field{sortinit}{7}
+      \field{sortinithash}{108d0be1b1bee9773a1173443802c0a3}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Artificial Intelligence}
+      \field{number}{no. 5}
+      \field{title}{Embedded Deep Learning Accelerators: A Survey on Recent Advances}
+      \field{volume}{vol. 5}
+      \field{year}{2024}
+    \endentry
+    \entry{paper_6}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=6ac6b4343e6e333550fe4489823ddfaf}{%
+           family={Y.-H.\bibnamedelimi Chen},
+           familyi={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.\bibnamedelimi S.\bibnamedelimi Emer},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={T.\bibnamedelimi Krishna},
+           suffixi={T\bibinitperiod\bibinitdelim K\bibinitperiod}}}%
+        {{hash=b4f4086d0d8f47552464b33b5cb9217e}{%
+           family={Sze},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{fullhash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{fullhashraw}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{bibnamehash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{authorbibnamehash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{authornamehash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{authorfullhash}{2ab362734b18c7659a0d0184b4f48896}
+      \strng{authorfullhashraw}{2ab362734b18c7659a0d0184b4f48896}
+      \field{extraname}{2}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal of Solid-State Circuits}
+      \field{number}{no. 1}
+      \field{title}{Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks}
+      \field{volume}{vol. 52}
+      \field{year}{Jan. 2017}
+    \endentry
+    \entry{paper_7}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4cd836bf0c13aac22b56c3fd38a016db}{%
+           family={Y.-H.\bibnamedelimi Chen},
+           familyi={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.\bibnamedelimi Emer},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={T.-J.\bibnamedelimi Yang},
+           suffixi={T\bibinithyphendelim J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b4f4086d0d8f47552464b33b5cb9217e}{%
+           family={Sze},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{bibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorbibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authornamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Emerging and Selected Topics in Circuits and Systems}
+      \field{number}{no. 2}
+      \field{title}{Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices}
+      \field{volume}{vol. 9}
+      \field{year}{2019}
+    \endentry
+    \entry{paper_8}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=4cd836bf0c13aac22b56c3fd38a016db}{%
+           family={Y.-H.\bibnamedelimi Chen},
+           familyi={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           given={J.\bibnamedelimi Emer},
+           giveni={J\bibinitperiod\bibinitdelim E\bibinitperiod},
+           suffix={T.-J.\bibnamedelimi Yang},
+           suffixi={T\bibinithyphendelim J\bibinitperiod\bibinitdelim Y\bibinitperiod}}}%
+        {{hash=b4f4086d0d8f47552464b33b5cb9217e}{%
+           family={Sze},
+           familyi={S\bibinitperiod},
+           given={V.},
+           giveni={V\bibinitperiod}}}%
+      }
+      \strng{namehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{fullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{bibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorbibnamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authornamehash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhash}{5a39442a2c3737e449394a1fd96b29f8}
+      \strng{authorfullhashraw}{5a39442a2c3737e449394a1fd96b29f8}
+      \field{extraname}{4}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{in Proc. SysML}
+      \field{title}{Understanding the Limitations of Existing Energy-Efficient Design Approaches for Deep Neural Networks}
+      \field{year}{2018}
+    \endentry
+    \entry{paper_9}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e487b34f75fbf9691925c4fd30164905}{%
+           family={Mohaidat},
+           familyi={M\bibinitperiod},
+           given={T.},
+           giveni={T\bibinitperiod}}}%
+        {{hash=160ebb53e5cb439698dee0b44e09ef79}{%
+           family={Khalil},
+           familyi={K\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+      }
+      \strng{namehash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{fullhash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{fullhashraw}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{bibnamehash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{authorbibnamehash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{authornamehash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{authorfullhash}{6c0ba75ca7a50be419662714b3c45aff}
+      \strng{authorfullhashraw}{6c0ba75ca7a50be419662714b3c45aff}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Artificial Intelligence}
+      \field{title}{A Survey on Neural Network Hardware Accelerators}
+      \field{volume}{vol. 5}
+      \field{year}{2024}
+    \endentry
+    \entry{paper_10}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=93c06728547a938fdf951efe64aab240}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={T.\bibnamedelimi Meuser},
+           giveni={T\bibinitperiod\bibinitdelim M\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{93c06728547a938fdf951efe64aab240}
+      \strng{fullhash}{93c06728547a938fdf951efe64aab240}
+      \strng{fullhashraw}{93c06728547a938fdf951efe64aab240}
+      \strng{bibnamehash}{93c06728547a938fdf951efe64aab240}
+      \strng{authorbibnamehash}{93c06728547a938fdf951efe64aab240}
+      \strng{authornamehash}{93c06728547a938fdf951efe64aab240}
+      \strng{authorfullhash}{93c06728547a938fdf951efe64aab240}
+      \strng{authorfullhashraw}{93c06728547a938fdf951efe64aab240}
+      \field{extraname}{3}
+      \field{sortinit}{1}
+      \field{sortinithash}{4f6aaa89bab872aa0999fec09ff8e98a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Internet Computing}
+      \field{number}{no. 4}
+      \field{title}{Revisiting Edge AI: Opportunities and Challenges}
+      \field{volume}{vol. 28}
+      \field{year}{2024}
+    \endentry
+    \entry{paper_11}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=bd6b7ab0cdd5423fc9c28a35aeecd0e9}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={Y.-H.\bibnamedelimi Chen},
+           giveni={Y\bibinithyphendelim H\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{fullhash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{fullhashraw}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{bibnamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorbibnamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authornamehash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorfullhash}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \strng{authorfullhashraw}{bd6b7ab0cdd5423fc9c28a35aeecd0e9}
+      \field{extraname}{4}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Journal on Emerging and Selected Topics in Circuits and Systems}
+      \field{number}{no. 2}
+      \field{title}{Eyeriss v2: A Flexible Accelerator for Emerging Deep Neural Networks on Mobile Devices}
+      \field{volume}{vol. 9}
+      \field{year}{2019}
+    \endentry
+    \entry{paper_12}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ad9bbe821129f97d7b0582f65043fab5}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={J.\bibnamedelimi Zhang},
+           giveni={J\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{fullhash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{fullhashraw}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{bibnamehash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{authorbibnamehash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{authornamehash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{authorfullhash}{ad9bbe821129f97d7b0582f65043fab5}
+      \strng{authorfullhashraw}{ad9bbe821129f97d7b0582f65043fab5}
+      \field{extraname}{5}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Transactions on Circuits and Systems I: Regular Papers}
+      \field{number}{no. 4}
+      \field{title}{DQ-STP: An Efficient Sparse On-Device Training Processor Based on Low-Rank Decomposition and Quantization for DNN}
+      \field{volume}{vol. 71}
+      \field{year}{2024}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+

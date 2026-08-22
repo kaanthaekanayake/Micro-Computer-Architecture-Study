@@ -1,0 +1,25 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.5)  22 AUG 2026 16:07
+entering extended mode
+ restricted \write18 enabled.
+ file:line:error style messages enabled.
+ %&-line parsing enabled.
+**"d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/sections/npu.tex"
+(d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/sections/npu.tex
+LaTeX2e <2026-06-01>
+L3 programming layer <2026-06-18>
+)
+! Emergency stop.
+<*> ...2/MCA/MCA_Emerging_Trends/sections/npu.tex"
+                                                  
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 15 strings out of 467168
+ 595 string characters out of 5413706
+ 435365 words of memory out of 5000000
+ 29378 multiletter control sequences out of 15000+600000
+ 627721 words of font info for 40 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 12i,0n,13p,130b,8s stack positions out of 10000i,1000n,20000p,200000b,200000s
+!  ==> Fatal error occurred, no output PDF file produced!

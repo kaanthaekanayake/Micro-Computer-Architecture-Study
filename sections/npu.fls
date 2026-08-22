@@ -1,0 +1,6 @@
+PWD d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/sections
+INPUT c:/texlive/2026/texmf.cnf
+INPUT c:/texlive/2026/texmf-dist/web2c/texmf.cnf
+INPUT c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
+INPUT d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/sections/npu.tex
+OUTPUT npu.log
