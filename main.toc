@@ -29,3 +29,4 @@
 \contentsline {subsection}{\numberline {6.3}2D Materials}{8}{subsection.6.3}%
 \contentsline {subsection}{\numberline {6.4}Gallium Nitride / Silicon Carbide}{9}{subsection.6.4}%
 \contentsline {subsection}{\numberline {6.5}Future Research}{9}{subsection.6.5}%
+\contentsline {section}{\numberline {7}Conclution}{9}{section.7}%
