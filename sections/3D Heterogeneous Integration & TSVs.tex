@@ -1,0 +1,42 @@
+/section{3D Heterogeneous Integration & TSVs}
+/subsection{2D vs 2.5D vs 3D Integration}
+Traditional 2D integration puts transistors and functional parts on one flat silicon chip. This method works well. 
+Is very old but as data moves between different parts it can slow things down and use more power. 
+In 2.5D integration several chips sit next to each other on a base called an interposer. The interposer 
+connects them closely without stacking the chips on top of each other. In integration the chips or layers 
+are stacked up like a tower. Connections between the layers happen through paths made with technologies 
+such, as Through-Silicon Vias (TSVs) [6] [7].
+
+/subsection{Heterogeneous Integration}
+Heterogeneous integration brings together components made using technologies, materials, process nodes or 
+functions into a single system. For example, a package might combine processor logic, memory, sensors, 
+radio-frequency parts, or accelerators that were produced using manufacturing processes [8]. This method 
+supports the "More-than-Moore" idea, where system performance and functionality improve not by shrinking 
+transistors but through smarter integration [9]. Chiplet-based architectures are an example of this since 
+each chiplet can be designed and optimized separately before being assembled into a larger system.
+
+/subsection{Through-Silicon Vias}
+A Through-Silicon Via or TSV is an electrical connection that goes through a silicon die or wafer. 
+These vias are usually filled with a material, most often copper and are used to link circuits or 
+stacked dies in a vertical direction. TSVs allow for shorter communication paths compared to traditional 
+package-level connections. The technology involves key steps like wafer thinning creating the via holes 
+adding insulation depositing metal layers and bonding. Each of these steps needs to be controlled. 
+Any defects in the TSVs can lead to problems, with performance and can reduce the long-term reliability 
+of the device.
+
+/subsection{Performance Advantages}
+3D integration can greatly boost how many connections fit in an area while making the space between 
+processing parts and memory parts much smaller. When connections are shorter data moves faster. 
+Uses less energy. Stacking components vertically means more features can fit into a space [6]. 
+High-Bandwidth Memory or HBM shows this idea in action. It uses memory chips stacked on top of 
+each other with vertical wires called TSVs. These allow data transfer between the memory and the 
+processor or logic chip [10]. This kind of setup also lets different parts be built using the 
+manufacturing methods available, for each component.
+
+/subsection{Challenges}
+Despite its benefits 3D integration brings a lot of problems. Getting rid of heat is harder because the dies that 
+are stacked inside can stop heat from moving to the outside of the package. Thermal stress, bending, issues with 
+through silicon vias, production checking for faults and getting enough good parts are also problems. These are 
+mentioned in sources [8] and [9]. Also the steps needed to make the wafers thin stick them together. Create the 
+through silicon vias can cost more money. So making 3D integration work well needs planning of the design the case, 
+around the chip handling the heat making the parts and making sure they last a long time.

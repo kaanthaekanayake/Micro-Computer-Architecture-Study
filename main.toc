@@ -11,3 +11,9 @@
 \contentsline {subsection}{\numberline {3.3}CPU-GPU Integration}{5}{subsection.3.3}%
 \contentsline {subsection}{\numberline {3.4}Performance Benefits}{5}{subsection.3.4}%
 \contentsline {subsection}{\numberline {3.5}Limitations}{5}{subsection.3.5}%
+\contentsline {section}{\numberline {4}RISC-V Vector Operations}{6}{section.4}%
+\contentsline {subsection}{\numberline {4.1}Introduction to RISC-V}{6}{subsection.4.1}%
+\contentsline {subsection}{\numberline {4.2}Open ISA Concept}{6}{subsection.4.2}%
+\contentsline {subsection}{\numberline {4.3}Vector Extension}{6}{subsection.4.3}%
+\contentsline {subsection}{\numberline {4.4}Customization}{6}{subsection.4.4}%
+\contentsline {subsection}{\numberline {4.5}Applications and Future}{6}{subsection.4.5}%
