@@ -1,10 +1,10 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.5)  22 AUG 2026 19:23
+This is pdfTeX, Version 3.141592653-2.6-1.40.29 (TeX Live 2026) (preloaded format=pdflatex 2026.7.5)  1 OCT 2026 10:21
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
  %&-line parsing enabled.
-**"d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/main.tex"
-(d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/main.tex
+**"d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex"
+(d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
 (c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
@@ -665,7 +665,7 @@ File: images/NPU Archi.png Graphic file (type png)
 <use images/NPU Archi.png>
 Package pdftex.def Info: images/NPU Archi.png  used on input line 20.
 (pdftex.def)             Requested size: 385.02547pt x 256.67706pt.
- [2 <./images/NPU Archi.png (PNG copy)>]) (./sections/Unified Architectures.tex [3]) [4] [5] (./main.aux)
+ [2 <./images/NPU Archi.png (PNG copy)>]) (./sections/Unified Architectures.tex [3] [4]) [5] [6] (./main.aux)
  ***********
 LaTeX2e <2026-06-01>
 L3 programming layer <2026-06-18>
@@ -677,18 +677,18 @@ Package logreq Info: Writing requests to 'main.run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 20568 strings out of 467168
- 361100 string characters out of 5413706
+ 20573 strings out of 467168
+ 361166 string characters out of 5413706
  1239550 words of memory out of 5000000
  49516 multiletter control sequences out of 15000+600000
- 635791 words of font info for 103 fonts, out of 8000000 for 9000
+ 635893 words of font info for 105 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 74i,6n,79p,1083b,1483s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 74i,6n,79p,1093b,1485s stack positions out of 10000i,1000n,20000p,200000b,200000s
 <c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb>
-Output written on main.pdf (5 pages, 1388403 bytes).
+Output written on main.pdf (6 pages, 1391608 bytes).
 PDF statistics:
- 161 PDF objects out of 1000 (max. 8388607)
- 143 compressed objects within 2 object streams
- 34 named destinations out of 1000 (max. 500000)
+ 165 PDF objects out of 1000 (max. 8388607)
+ 146 compressed objects within 2 object streams
+ 35 named destinations out of 1000 (max. 500000)
  18542 words of extra memory for PDF output out of 20736 (max. 10000000)
 

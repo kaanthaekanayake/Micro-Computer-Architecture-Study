@@ -1,8 +1,8 @@
-PWD d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends
+PWD d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study
 INPUT c:/texlive/2026/texmf.cnf
 INPUT c:/texlive/2026/texmf-dist/web2c/texmf.cnf
 INPUT c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt
-INPUT d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/main.tex
+INPUT d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex
 OUTPUT main.log
 INPUT c:/texlive/2026/texmf-dist/tex/latex/base/article.cls
 INPUT c:/texlive/2026/texmf-dist/tex/latex/base/article.cls

@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1787406659.17162 "main.bcf" "main.bbl" "main" 1787406788.55156 0
-  "main.bcf" 1787406788 109246 2848087bde87b5dd96225751a156cc33 "pdflatex"
-  "references.bib" 1787406190 3477 6e794607ee34a2ac904e1b01bfaab0f7 ""
+["biber main"] 1790830210.36333 "main.bcf" "main.bbl" "main" 1790830298.04394 0
+  "main.bcf" 1790830297 109246 2848087bde87b5dd96225751a156cc33 "pdflatex"
+  "references.bib" 1790830025 3477 6e794607ee34a2ac904e1b01bfaab0f7 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1787406787.13189 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/main.tex" "main.pdf" "main" 1787406788.55212 0
+["pdflatex"] 1790830296.63361 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" "main.pdf" "main" 1790830298.04448 0
   "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1783232758 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1783227748 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1783227748 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -102,16 +102,16 @@
   "c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1783238635 5619402 ad1310ccf7f36101ef3e8f014a173c46 ""
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1783238698 3656530 9ee398e75ba2355deed41620becbb0cc ""
   "c:/texlive/2026/texmf.cnf" 1783238612 713 e69b156964470283e0530f5060668171 ""
-  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/CST/1.2/MCA/MCA_Emerging_Trends/main.tex" 1787406785 570 c3f04d1f85dd0e9af63dfe1c2a3a4b9f ""
-  "images/NPU Archi.png" 1787372124 1322480 f13e4059b3c362907625c4e67d4bb10d ""
-  "main.aux" 1787406788 4240 d3fd31d5da610079cf10c05a1d8a2a18 "pdflatex"
-  "main.bbl" 1787406660 17613 a43445f1236b740e330659cde2bc06de "biber main"
-  "main.out" 1787406788 2231 33b5eb3565dde9e65601ef17475d2bbb "pdflatex"
-  "main.run.xml" 1787406788 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
-  "main.tex" 1787406785 570 c3f04d1f85dd0e9af63dfe1c2a3a4b9f ""
-  "main.toc" 1787406788 1118 b08bd88d7d894b9d1696852b7b33d6e6 "pdflatex"
-  "sections/Unified Architectures.tex" 1787406771 232 18562a2165c93a7e829a0f6284f33eb7 ""
-  "sections/npu.tex" 1787406312 6165 a18a9e7dd2bae3ce64ec6a878e60bb54 ""
+  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" 1790830025 570 c3f04d1f85dd0e9af63dfe1c2a3a4b9f ""
+  "images/NPU Archi.png" 1790830025 1322480 f13e4059b3c362907625c4e67d4bb10d ""
+  "main.aux" 1790830297 4240 d553a41b596055de8888a94719ac24cf "pdflatex"
+  "main.bbl" 1790830211 17613 a43445f1236b740e330659cde2bc06de "biber main"
+  "main.out" 1790830297 2231 33b5eb3565dde9e65601ef17475d2bbb "pdflatex"
+  "main.run.xml" 1790830297 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
+  "main.tex" 1790830025 570 c3f04d1f85dd0e9af63dfe1c2a3a4b9f ""
+  "main.toc" 1790830297 1118 7373f132984e5533fb8880db79eed934 "pdflatex"
+  "sections/Unified Architectures.tex" 1790830295 3556 aebe0d0b8afecd21f956cb050b53eb47 ""
+  "sections/npu.tex" 1790830025 6165 a18a9e7dd2bae3ce64ec6a878e60bb54 ""
   (generated)
   "main.aux"
   "main.bcf"
