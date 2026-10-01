@@ -23,3 +23,9 @@
 \contentsline {subsection}{\numberline {5.3}Through-Silicon Vias}{7}{subsection.5.3}%
 \contentsline {subsection}{\numberline {5.4}Performance Advantages}{7}{subsection.5.4}%
 \contentsline {subsection}{\numberline {5.5}Challenges}{8}{subsection.5.5}%
+\contentsline {section}{\numberline {6}Beyond-Silicon Materials}{8}{section.6}%
+\contentsline {subsection}{\numberline {6.1}Limitations of Silicon}{8}{subsection.6.1}%
+\contentsline {subsection}{\numberline {6.2}Wide-Bandgap Materials}{8}{subsection.6.2}%
+\contentsline {subsection}{\numberline {6.3}2D Materials}{8}{subsection.6.3}%
+\contentsline {subsection}{\numberline {6.4}Gallium Nitride / Silicon Carbide}{9}{subsection.6.4}%
+\contentsline {subsection}{\numberline {6.5}Future Research}{9}{subsection.6.5}%
