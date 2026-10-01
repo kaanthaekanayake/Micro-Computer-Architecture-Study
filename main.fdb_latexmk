@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 0 "main.bcf" "main.bbl" "main" 1790832353.574 -1
-  "main.bcf" 1790832353 109246 2848087bde87b5dd96225751a156cc33 "pdflatex"
+["biber main"] 1790832812.70451 "main.bcf" "main.bbl" "main" 1790833009.30709 0
+  "main.bcf" 1790833009 109246 2848087bde87b5dd96225751a156cc33 "pdflatex"
   "references.bib" 1790830025 3477 6e794607ee34a2ac904e1b01bfaab0f7 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1790832352.22884 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" "main.pdf" "main" 1790832353.57451 0
+["pdflatex"] 1790833007.92379 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" "main.pdf" "main" 1790833009.30768 0
   "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1783232758 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1783227748 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1783227748 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -18,6 +18,7 @@
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmmi8.tfm" 1783238519 1520 eccf95517727cb11801f4f1aee3a21b4 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr10.tfm" 1783238519 1296 45809c5a464d5f32c8f98ba97c1bb47f ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm" 1783238519 1288 655e228510b4c2a1abe905c368440826 ""
+  "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr17.tfm" 1783238519 1292 296a67155bdbfc32aa9c636f21e91433 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr6.tfm" 1783238519 1300 b62933e007d01cfd073f79b963c01526 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr8.tfm" 1783238519 1292 21c1c5bfeaebccffdb478fd231a0997d ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmsy10.tfm" 1783238519 1124 6c73e740cf17375f03eec0ee63599741 ""
@@ -27,6 +28,7 @@
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb" 1783227748 34811 78b52f49e893bcba91bd7581cdc144c0 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb" 1783227748 32080 340ef9bf63678554ee606688e7b5339d ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb" 1783227748 35752 024fb6c41858982481f6968b5fc26508 ""
+  "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb" 1783227748 32722 d7379af29a190c3f453aba36302ff5a9 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb" 1783227748 32726 39f0f9e62e84beb801509898a605dbd5 ""
   "c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb" 1783227748 37944 359e864bd06cde3b1cf57bb20757fb06 ""
   "c:/texlive/2026/texmf-dist/tex/context/base/mkii/supp-pdf.mkii" 1783234892 71627 94eb9990bed73c364d7f53f960cc8c5b ""
@@ -103,14 +105,14 @@
   "c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1783238635 5619402 ad1310ccf7f36101ef3e8f014a173c46 ""
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1783238698 3656530 9ee398e75ba2355deed41620becbb0cc ""
   "c:/texlive/2026/texmf.cnf" 1783238612 713 e69b156964470283e0530f5060668171 ""
-  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" 1790832351 2878 9d7467fab04b4706a6bceb388f205938 ""
+  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" 1790833007 3299 3a8bcf4d8a929e14ff7a15df537141bb ""
   "images/NPU Archi.png" 1790830025 1322480 f13e4059b3c362907625c4e67d4bb10d ""
-  "main.aux" 1790832353 6627 185d7915dbe49f05d636ddbed85c5896 "pdflatex"
-  "main.bbl" 1790832176 17613 a43445f1236b740e330659cde2bc06de "biber main"
-  "main.out" 1790832353 5333 4778ffd78a766a4735a88e858549169c "pdflatex"
-  "main.run.xml" 1790832353 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
-  "main.tex" 1790832351 2878 9d7467fab04b4706a6bceb388f205938 ""
-  "main.toc" 1790832353 2725 9576a703fdba71302756f8401dd5ceff "pdflatex"
+  "main.aux" 1790833009 6627 390d3b9b0c6a96a0919d95df8171dc1c "pdflatex"
+  "main.bbl" 1790832814 17613 a43445f1236b740e330659cde2bc06de "biber main"
+  "main.out" 1790833009 5333 4778ffd78a766a4735a88e858549169c "pdflatex"
+  "main.run.xml" 1790833009 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
+  "main.tex" 1790833007 3299 3a8bcf4d8a929e14ff7a15df537141bb ""
+  "main.toc" 1790833009 2725 9576a703fdba71302756f8401dd5ceff "pdflatex"
   "sections/3D Heterogeneous Integration & TSVs.tex" 1790832056 3405 7a6a8ff6c865a245a098c8e2a9e2aa96 ""
   "sections/Beyond-Silicon Materials.tex" 1790832218 3366 ffeae85ae2eb18ef07717196e828a5af ""
   "sections/RISC-V Vector Operation.tex" 1790831826 3412 b1b77706840f27fe90f124655d14d4b1 ""

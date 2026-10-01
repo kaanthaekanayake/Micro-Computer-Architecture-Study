@@ -187,6 +187,11 @@ INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT ./main.bbl
 INPUT main.bbl
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr17.tfm
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
+INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
+INPUT c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./main.toc
@@ -205,14 +210,11 @@ INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmex10.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm
 OUTPUT main.toc
-INPUT c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map
 INPUT ./sections/npu.tex
 INPUT ./sections/npu.tex
 INPUT ./sections/npu.tex
 INPUT ./sections/npu.tex
 INPUT sections/npu.tex
-INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmr12.tfm
-INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmbx12.tfm
 INPUT ./images/NPU Archi.png
 INPUT ./images/NPU Archi.png
 INPUT ./images/NPU Archi.png
@@ -241,5 +243,6 @@ OUTPUT main.run.xml
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb
+INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmr8.pfb
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb
