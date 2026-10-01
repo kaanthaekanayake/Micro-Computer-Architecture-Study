@@ -226,6 +226,9 @@ INPUT sections/Unified Architectures.tex
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT sections/RISC-V Vector Operation.tex
+INPUT ./sections/3D Heterogeneous Integration & TSVs.tex
+INPUT ./sections/3D Heterogeneous Integration & TSVs.tex
+INPUT sections/3D Heterogeneous Integration & TSVs.tex
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT main.aux
 INPUT ./main.out
