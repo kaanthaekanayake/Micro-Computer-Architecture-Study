@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber main"] 1791427237.09559 "main.bcf" "main.bbl" "main" 1791427795.26067 0
-  "main.bcf" 1791427795 110827 40a2ddebf2f59b4a38899c807b637c7f "pdflatex"
+["biber main"] 1791427237.09559 "main.bcf" "main.bbl" "main" 1791428759.6675 0
+  "main.bcf" 1791428759 110827 40a2ddebf2f59b4a38899c807b637c7f "pdflatex"
   "references.bib" 1791426371 8151 36d3d1a506c26705fef572eb6332b843 ""
   (generated)
   "main.bbl"
   "main.blg"
   (rewritten before read)
-["pdflatex"] 1791427793.5204 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" "main.pdf" "main" 1791427795.26125 0
+["pdflatex"] 1791428757.8704 "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" "main.pdf" "main" 1791428759.66813 0
   "c:/texlive/2026/texmf-dist/fonts/map/fontname/texfonts.map" 1783232758 3524 cb3e574dea2d1052e39280babc910dc8 ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex7.tfm" 1783227748 1004 54797486969f23fa377b128694d548df ""
   "c:/texlive/2026/texmf-dist/fonts/tfm/public/amsfonts/cmextra/cmex8.tfm" 1783227748 988 bdf658c3bfc2d96d3c8b02cfc1c94c20 ""
@@ -108,19 +108,19 @@
   "c:/texlive/2026/texmf-var/fonts/map/pdftex/updmap/pdftex.map" 1783238635 5619402 ad1310ccf7f36101ef3e8f014a173c46 ""
   "c:/texlive/2026/texmf-var/web2c/pdftex/pdflatex.fmt" 1783238698 3656530 9ee398e75ba2355deed41620becbb0cc ""
   "c:/texlive/2026/texmf.cnf" 1783238612 713 e69b156964470283e0530f5060668171 ""
-  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" 1791427790 3767 9a15de865697f595179c4f74c1c349e2 ""
+  "d:/COMPUTER SCIENCE AND TECHNOLOGY-UWA WELLASSA/1.2/mca/Micro-Computer-Architecture-Study/main.tex" 1791428755 3798 a716ed1f44cf64accb07455a6472efb0 ""
   "images/NPU Archi.png" 1790830025 1322480 f13e4059b3c362907625c4e67d4bb10d ""
   "images/Unitied vs traditional.png" 1790830025 1265971 5c4a58608c640e31c4b911296eee5714 ""
-  "main.aux" 1791427795 19201 10978874b1c67e665130aad4fc3c0f7a "pdflatex"
+  "main.aux" 1791428759 19201 27d43c215be01cd74c292a86f264a327 "pdflatex"
   "main.bbl" 1791427238 33980 38f6ac37a6e480f8d2da98d345642cb8 "biber main"
-  "main.run.xml" 1791427795 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
-  "main.tex" 1791427790 3767 9a15de865697f595179c4f74c1c349e2 ""
-  "main.toc" 1791427795 2726 6f2154dbbcad55867407a8c4f5dfc31b "pdflatex"
+  "main.run.xml" 1791428759 2402 05765085d18e81025e591027ecbce8c4 "pdflatex"
+  "main.tex" 1791428755 3798 a716ed1f44cf64accb07455a6472efb0 ""
+  "main.toc" 1791428759 2726 6f2154dbbcad55867407a8c4f5dfc31b "pdflatex"
   "sections/3D Heterogeneous Integration & TSVs.tex" 1791426913 3485 45db683277dce87088dc1cea85b57754 ""
   "sections/Beyond-Silicon Materials.tex" 1791425662 3462 475388a200ce18296fd8ec6820fd756f ""
   "sections/RISC-V Vector Operation.tex" 1791425462 3448 9b65bfd40251b0ec91ad37767f0a82d2 ""
   "sections/Unified Architectures.tex" 1791426675 3805 5281bba61fcad58f98a096cff5b53834 ""
-  "sections/npu.tex" 1790830025 6165 a18a9e7dd2bae3ce64ec6a878e60bb54 ""
+  "sections/npu.tex" 1791428730 6196 c18a4bbd9767d0850025a9074f9ffd74 ""
   (generated)
   "main.aux"
   "main.bcf"
