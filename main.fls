@@ -233,12 +233,32 @@ INPUT ./images/Unitied vs traditional.png
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT sections/RISC-V Vector Operation.tex
+INPUT ./images/RISC-V Vector Operations Block Diagram.png
+INPUT ./images/RISC-V Vector Operations Block Diagram.png
+INPUT ./images/RISC-V Vector Operations Block Diagram.png
+INPUT ./images/RISC-V Vector Operations Block Diagram.png
+INPUT ./images/RISC-V Vector Operations Block Diagram.png
 INPUT ./sections/3D Heterogeneous Integration & TSVs.tex
 INPUT ./sections/3D Heterogeneous Integration & TSVs.tex
 INPUT sections/3D Heterogeneous Integration & TSVs.tex
+INPUT ./images/3D Heterogeneous Integration Infographic I.png
+INPUT ./images/3D Heterogeneous Integration Infographic I.png
+INPUT ./images/3D Heterogeneous Integration Infographic I.png
+INPUT ./images/3D Heterogeneous Integration Infographic I.png
+INPUT ./images/3D Heterogeneous Integration Infographic I.png
+INPUT ./images/3D Heterogeneous Integration Infographic.png
+INPUT ./images/3D Heterogeneous Integration Infographic.png
+INPUT ./images/3D Heterogeneous Integration Infographic.png
+INPUT ./images/3D Heterogeneous Integration Infographic.png
+INPUT ./images/3D Heterogeneous Integration Infographic.png
 INPUT ./sections/Beyond-Silicon Materials.tex
 INPUT ./sections/Beyond-Silicon Materials.tex
 INPUT sections/Beyond-Silicon Materials.tex
+INPUT ./images/Beyond-Silicon Materials Infographic.png
+INPUT ./images/Beyond-Silicon Materials Infographic.png
+INPUT ./images/Beyond-Silicon Materials Infographic.png
+INPUT ./images/Beyond-Silicon Materials Infographic.png
+INPUT ./images/Beyond-Silicon Materials Infographic.png
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT main.aux
 INPUT main.run.xml
