@@ -96,6 +96,13 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
 INPUT c:/texlive/2026/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/bookmark/bookmark.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
+INPUT c:/texlive/2026/texmf-dist/tex/latex/bookmark/bkm-pdftex.def
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/caption/caption3.sty
@@ -108,6 +115,8 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype-pdftex.def
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/microtype.cfg
+INPUT c:/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
+INPUT c:/texlive/2026/texmf-dist/tex/latex/fancyhdr/fancyhdr.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/logreq/logreq.sty
@@ -151,8 +160,6 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/biblatex.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/l3kernel/expl3.sty
-INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
-INPUT c:/texlive/2026/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def
 INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/biblatex/blx-case-expl3.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/l3packages/xparse/xparse.sty
@@ -169,14 +176,7 @@ INPUT c:/texlive/2026/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 INPUT c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/latexconfig/epstopdf-sys.cfg
-INPUT ./main.out
-INPUT ./main.out
-INPUT main.out
-INPUT main.out
 OUTPUT main.pdf
-INPUT ./main.out
-INPUT ./main.out
-OUTPUT main.out
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
 INPUT c:/texlive/2026/texmf-dist/tex/latex/microtype/mt-cmr.cfg
@@ -225,6 +225,11 @@ INPUT ./sections/Unified Architectures.tex
 INPUT ./sections/Unified Architectures.tex
 INPUT ./sections/Unified Architectures.tex
 INPUT sections/Unified Architectures.tex
+INPUT ./images/Unitied vs traditional.png
+INPUT ./images/Unitied vs traditional.png
+INPUT ./images/Unitied vs traditional.png
+INPUT ./images/Unitied vs traditional.png
+INPUT ./images/Unitied vs traditional.png
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT ./sections/RISC-V Vector Operation.tex
 INPUT sections/RISC-V Vector Operation.tex
@@ -236,8 +241,6 @@ INPUT ./sections/Beyond-Silicon Materials.tex
 INPUT sections/Beyond-Silicon Materials.tex
 INPUT c:/texlive/2026/texmf-dist/fonts/tfm/public/cm/cmti10.tfm
 INPUT main.aux
-INPUT ./main.out
-INPUT ./main.out
 INPUT main.run.xml
 OUTPUT main.run.xml
 INPUT c:/texlive/2026/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx10.pfb

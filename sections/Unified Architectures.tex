@@ -5,23 +5,29 @@ In traditional computer architecture, the CPU and the GPU operate as separate pr
 memory resources. The CPU normally access the system RAM, while the GPU has its own high-bandwidth memory. So
  the data that is required by the GPU must be transferred from CPU memory to the GPU memory through an 
  interconnection such as PCI Express. After the GPU processing finishes, the processed data should be 
- copied back to system memory [1]. This separation provides high GPU bandwidth, but it introduces data-transfer 
+ copied back to system memory \cite{u_01}. This separation provides high GPU bandwidth, but it introduces data-transfer 
  overhead and increases programming complexity.
 
 \subsection{Unified Memory Architecture}
 Unified Memory Architecture (UMA) reduces this separation by allowing the CPU and the GPU to access a common 
 memory. Instead of maintaining completely separate memory, both processors can operate on data located in 
 shared system memory. Heterogeneous System Architecture (HSA) extends this concept by providing shared 
-virtual memory addressing and mechanisms for cooperation between heterogeneous processing units [2]. 
+virtual memory addressing and mechanisms for cooperation between heterogeneous processing units \cite{u_02}. 
 A modern unified memory system can automatically manage memory placement and migration, reducing the 
-need for programmers to explicitly copy data between CPU and GPU memories [3].
+need for programmers to explicitly copy data between CPU and GPU memories \cite{u_03}.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=0.85\textwidth]{images/Unitied vs traditional.png}
+    \caption{Unitied Architectur vs Traditional Architecture}
+\end{figure}
 
 \subsection{CPU-GPU Integration}
 CPU-GPU integration places the CPU cores and the GPU compute units within the same package (System-on-Chip). 
 Integrated design reduces the physical communication distance and can provide a more tightly coupled processing 
 environment. Heterogeneous System Architecture-based architectures allow different processing units to cooperate 
-through shared memory and a common programming model [2].  Modern processors such as Apple silicon demonstrate 
-this approach by combining CPU, GPU, and other accelerators around a unified memory architecture [4].
+through shared memory and a common programming model \cite{u_02}.  Modern processors such as Apple silicon demonstrate 
+this approach by combining CPU, GPU, and other accelerators around a unified memory architecture \cite{u_04}.
 
 \subsection{Performance Benefits}
 Unified architectures can improve performance by cutting down on data movement between different memory pools. 
@@ -29,7 +35,7 @@ When data doesn't have to move forth as much communication overhead goes down. T
 together better especially when the workload involves data exchanges. With shared memory both the CPU and GPU 
 can use the physical memory space. That means memory is used efficiently since theres no need to duplicate 
 data across separate systems. Also integrated designs often save energy because data doesn’t always have to 
-travel over an external connection [1] [2]. These benefits make unified architectures very useful for 
+travel over an external connection \cite{u_01} \cite{u_02}. These benefits make unified architectures very useful for 
 applications, in intelligence, graphics, multimedia processing and scientific computing.
 
 \subsection{Limitations}

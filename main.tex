@@ -7,8 +7,29 @@
 \usepackage{booktabs}
 \usepackage{amsmath}
 \usepackage{hyperref}
+\usepackage{bookmark}
 \usepackage{caption}
 \usepackage{microtype}
+\usepackage{fancyhdr}
+
+\pagestyle{fancy}
+\fancyhf{}
+
+% Header
+\fancyhead[L]{Micro Computer Architecture}
+\fancyhead[R]{\nouppercase{\leftmark}}
+
+% Footer
+\fancyfoot[L]{UWU/CST/24/021}
+\fancyfoot[C]{\thepage}
+\fancyfoot[R]{2026}
+
+% Header and footer lines
+\renewcommand{\headrulewidth}{0.4pt}
+\renewcommand{\footrulewidth}{0.4pt}
+
+% Remove section number from header
+\renewcommand{\sectionmark}[1]{\markboth{#1}{}}
 
 \usepackage[
     backend=biber,
@@ -78,6 +99,7 @@ tasks while unified CPU, GPU and RAM designs cut data transfer time and help pro
  systems will rely more on processors, smart memory designs, open hardware, advanced packaging and new 
  semiconductor materials instead of just making chips smaller.
 
+ \newpage
 \printbibliography
 
 \end{document}

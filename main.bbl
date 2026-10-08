@@ -187,7 +187,7 @@
       \field{number}{no. 1}
       \field{title}{Eyeriss: An Energy-Efficient Reconfigurable Accelerator for Deep Convolutional Neural Networks}
       \field{volume}{vol. 52}
-      \field{year}{Jan. 2017}
+      \field{year}{2017}
     \endentry
     \entry{paper_7}{article}{}{}
       \name{author}{2}{}{%
@@ -371,6 +371,358 @@
       \field{title}{DQ-STP: An Efficient Sparse On-Device Training Processor Based on Low-Rank Decomposition and Quantization for DNN}
       \field{volume}{vol. 71}
       \field{year}{2024}
+    \endentry
+    \entry{u_01}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=d87aa50506e79cc4f27ddbe54deca5cd}{%
+           family={Mittal},
+           familyi={M\bibinitperiod},
+           given={S.},
+           giveni={S\bibinitperiod}}}%
+        {{hash=c3147d718bfe870fa572d6f1626946e2}{%
+           family={Vetter},
+           familyi={V\bibinitperiod},
+           given={J.\bibnamedelimi S.},
+           giveni={J\bibinitperiod\bibinitdelim S\bibinitperiod}}}%
+      }
+      \strng{namehash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{fullhash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{fullhashraw}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{bibnamehash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{authorbibnamehash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{authornamehash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{authorfullhash}{61a67ee54856d93b3f3206afe8366d3e}
+      \strng{authorfullhashraw}{61a67ee54856d93b3f3206afe8366d3e}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{ACM Computing Surveys}
+      \field{number}{no. 4}
+      \field{title}{A survey of CPU-GPU heterogeneous computing techniques}
+      \field{volume}{vol. 47}
+      \field{year}{2015}
+    \endentry
+    \entry{u_02}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=e2998967b2df60879b187e7338dd8c3c}{%
+           family={W.-M.\bibnamedelimi W.\bibnamedelimi Hwu},
+           familyi={W\bibinithyphendelim M\bibinitperiod\bibinitdelim W\bibinitperiod\bibinitdelim H\bibinitperiod},
+           given={Y.-C.\bibnamedelimi Chung},
+           giveni={Y\bibinithyphendelim C\bibinitperiod\bibinitdelim C\bibinitperiod}}}%
+        {{hash=0e11a1a55c1907741adbe80b0e02f203}{%
+           family={Ubal},
+           familyi={U\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{6901596b0164da2e513c484ec3324986}
+      \strng{fullhash}{6901596b0164da2e513c484ec3324986}
+      \strng{fullhashraw}{6901596b0164da2e513c484ec3324986}
+      \strng{bibnamehash}{6901596b0164da2e513c484ec3324986}
+      \strng{authorbibnamehash}{6901596b0164da2e513c484ec3324986}
+      \strng{authornamehash}{6901596b0164da2e513c484ec3324986}
+      \strng{authorfullhash}{6901596b0164da2e513c484ec3324986}
+      \strng{authorfullhashraw}{6901596b0164da2e513c484ec3324986}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heterogeneous System Architecture: A New Compute Platform Infrastructure}
+      \field{year}{2016}
+    \endentry
+    \entry{u_03}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=a2fe9051fe051f819bd739ef3e340377}{%
+           family={NVIDIA},
+           familyi={N\bibinitperiod}}}%
+      }
+      \strng{namehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{fullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{bibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorbibnamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authornamehash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhash}{a2fe9051fe051f819bd739ef3e340377}
+      \strng{authorfullhashraw}{a2fe9051fe051f819bd739ef3e340377}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Unified and System Memory}
+      \field{year}{2026}
+    \endentry
+    \entry{u_04}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=9f6290f4436e5a2351f12e03b6433c3c}{%
+           family={Apple},
+           familyi={A\bibinitperiod}}}%
+      }
+      \strng{namehash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{fullhash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{fullhashraw}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{bibnamehash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{authorbibnamehash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{authornamehash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{authorfullhash}{9f6290f4436e5a2351f12e03b6433c3c}
+      \strng{authorfullhashraw}{9f6290f4436e5a2351f12e03b6433c3c}
+      \field{sortinit}{2}
+      \field{sortinithash}{8b555b3791beccb63322c22f3320aa9a}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Apple unleashes M5, the next big leap in AI performance on Apple silicon}
+      \field{year}{2025}
+    \endentry
+    \entry{paper_02}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=74afa96b0987b82d0e8756317d37b54d}{%
+           family={Asanović},
+           familyi={A\bibinitperiod},
+           given={K.},
+           giveni={K\bibinitperiod}}}%
+        {{hash=7bd9b99a4a6f12dfe186b341f01ff892}{%
+           family={Patterson},
+           familyi={P\bibinitperiod},
+           given={D.\bibnamedelimi A.},
+           giveni={D\bibinitperiod\bibinitdelim A\bibinitperiod}}}%
+      }
+      \strng{namehash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{fullhash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{fullhashraw}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{bibnamehash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{authorbibnamehash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{authornamehash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{authorfullhash}{27a3a71c80a1b42317a7ccdad9dac321}
+      \strng{authorfullhashraw}{27a3a71c80a1b42317a7ccdad9dac321}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Instruction Sets Should Be Free: The Case for RISC-V}
+      \field{year}{2014}
+    \endentry
+    \entry{paper_03}{article}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RISC-V International}
+      \field{title}{RISC-V Instruction Set Architecture Specifications}
+      \field{year}{2026}
+    \endentry
+    \entry{paper_04}{article}{}{}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{RISC-V International}
+      \field{title}{V Standard Extension for Vector Operations, Version 1.0}
+      \field{volume}{Version 1.0}
+    \endentry
+    \entry{paper_06}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=d8ef5b596b5aa20df584b8bf6da74a9b}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={C.-C.\bibnamedelimi Lee},
+           giveni={C\bibinithyphendelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{fullhash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{fullhashraw}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{bibnamehash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{authorbibnamehash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{authornamehash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{authorfullhash}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \strng{authorfullhashraw}{d8ef5b596b5aa20df584b8bf6da74a9b}
+      \field{extraname}{6}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Micromachines}
+      \field{number}{no. 1}
+      \field{title}{Three-Dimensional Integrated Circuit (3D IC) Key Technology: Through-Silicon Via (TSV)}
+      \field{volume}{vol. 8}
+      \field{year}{2017}
+    \endentry
+    \entry{paper_08}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=c014a07898742eba56057924dcc4747f}{%
+           family={Radojcic},
+           familyi={R\bibinitperiod},
+           given={R.},
+           giveni={R\bibinitperiod}}}%
+      }
+      \strng{namehash}{c014a07898742eba56057924dcc4747f}
+      \strng{fullhash}{c014a07898742eba56057924dcc4747f}
+      \strng{fullhashraw}{c014a07898742eba56057924dcc4747f}
+      \strng{bibnamehash}{c014a07898742eba56057924dcc4747f}
+      \strng{authorbibnamehash}{c014a07898742eba56057924dcc4747f}
+      \strng{authornamehash}{c014a07898742eba56057924dcc4747f}
+      \strng{authorfullhash}{c014a07898742eba56057924dcc4747f}
+      \strng{authorfullhashraw}{c014a07898742eba56057924dcc4747f}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{More-than-Moore 2.5D and 3D SiP Integration. Cham}
+      \field{year}{2017}
+    \endentry
+    \entry{paper_09}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=50e265bf96155c3c52d3a555bf2a1b73}{%
+           family={Society},
+           familyi={S\bibinitperiod},
+           given={IEEE\bibnamedelimb Electronics\bibnamedelima Packaging},
+           giveni={I\bibinitperiod\bibinitdelim E\bibinitperiod\bibinitdelim P\bibinitperiod}}}%
+      }
+      \strng{namehash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{fullhash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{fullhashraw}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{bibnamehash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{authorbibnamehash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{authornamehash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{authorfullhash}{50e265bf96155c3c52d3a555bf2a1b73}
+      \strng{authorfullhashraw}{50e265bf96155c3c52d3a555bf2a1b73}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{title}{Heterogeneous Integration Roadmap}
+      \field{year}{2020}
+    \endentry
+    \entry{paper_010}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=ec16cff8463a4f90e7096b2f2d53ee4f}{%
+           family={al},
+           familyi={a\bibinitperiod},
+           given={J.\bibnamedelimi C.\bibnamedelimi Lee},
+           giveni={J\bibinitperiod\bibinitdelim C\bibinitperiod\bibinitdelim L\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{fullhash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{fullhashraw}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{bibnamehash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{authorbibnamehash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{authornamehash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{authorfullhash}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \strng{authorfullhashraw}{ec16cff8463a4f90e7096b2f2d53ee4f}
+      \field{extraname}{7}
+      \field{sortinit}{3}
+      \field{sortinithash}{ad6fe7482ffbd7b9f99c9e8b5dccd3d7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. IEEE Int. SoC Design Conf. (ISOCC)}
+      \field{number}{pp. 181–182}
+      \field{title}{High bandwidth memory (HBM) with TSV technique}
+      \field{year}{2016}
+    \endentry
+    \entry{paper_011}{article}{}{}
+      \name{author}{2}{}{%
+        {{hash=95d460d4215cd5b74ab7bae1b2cd72d4}{%
+           family={S.\bibnamedelimi Zeng},
+           familyi={S\bibinitperiod\bibinitdelim Z\bibinitperiod},
+           given={C.\bibnamedelimi Liu},
+           giveni={C\bibinitperiod\bibinitdelim L\bibinitperiod}}}%
+        {{hash=6a28a6c067862e069501b98642a49e74}{%
+           family={Zhou},
+           familyi={Z\bibinitperiod},
+           given={P.},
+           giveni={P\bibinitperiod}}}%
+      }
+      \strng{namehash}{9449a3bca915362a91380fb4feea7992}
+      \strng{fullhash}{9449a3bca915362a91380fb4feea7992}
+      \strng{fullhashraw}{9449a3bca915362a91380fb4feea7992}
+      \strng{bibnamehash}{9449a3bca915362a91380fb4feea7992}
+      \strng{authorbibnamehash}{9449a3bca915362a91380fb4feea7992}
+      \strng{authornamehash}{9449a3bca915362a91380fb4feea7992}
+      \strng{authorfullhash}{9449a3bca915362a91380fb4feea7992}
+      \strng{authorfullhashraw}{9449a3bca915362a91380fb4feea7992}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Nature Reviews Electrical Engineering,}
+      \field{number}{pp. 335–348}
+      \field{title}{Transistor engineering based on 2D materials in the post-silicon era}
+      \field{volume}{vol. 1}
+      \field{year}{2024}
+    \endentry
+    \entry{paper_012}{article}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Technology Navigator}
+      \field{title}{Wide Band Gap Semiconductors}
+    \endentry
+    \entry{paper_013}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=cd0b461d38294475fabf6e8d46d5219a}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={E.\bibnamedelimi A.\bibnamedelimi Jones},
+           giveni={E\bibinitperiod\bibinitdelim A\bibinitperiod\bibinitdelim J\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{fullhash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{fullhashraw}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{bibnamehash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{authorbibnamehash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{authornamehash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{authorfullhash}{cd0b461d38294475fabf6e8d46d5219a}
+      \strng{authorfullhashraw}{cd0b461d38294475fabf6e8d46d5219a}
+      \field{extraname}{8}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{IEEE Trans. Electron Devices}
+      \field{number}{no. 3, pp. 1344–1355}
+      \field{title}{Review and Outlook on GaN and SiC Power Devices: Industrial State-of-the-Art, Applications, and Perspectives}
+      \field{volume}{vol. 71}
+      \field{year}{2024}
+    \endentry
+    \entry{paper_014}{article}{}{}
+      \name{author}{1}{}{%
+        {{hash=962fa0b82d52d938b7b8d5c7907e497c}{%
+           family={al.},
+           familyi={a\bibinitperiod},
+           given={A.\bibnamedelimi Chaves},
+           giveni={A\bibinitperiod\bibinitdelim C\bibinitperiod},
+           prefix={et},
+           prefixi={e\bibinitperiod}}}%
+      }
+      \strng{namehash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{fullhash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{fullhashraw}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{bibnamehash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{authorbibnamehash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{authornamehash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{authorfullhash}{962fa0b82d52d938b7b8d5c7907e497c}
+      \strng{authorfullhashraw}{962fa0b82d52d938b7b8d5c7907e497c}
+      \field{extraname}{9}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{npj 2D Materials and Applications}
+      \field{number}{no. 29}
+      \field{title}{Bandgap engineering of two-dimensional semiconductor materials}
+      \field{volume}{vol. 4}
+      \field{year}{2020}
+    \endentry
+    \entry{paper_015}{article}{}{}
+      \field{sortinit}{4}
+      \field{sortinithash}{9381316451d1b9788675a07e972a12a7}
+      \field{labeltitlesource}{title}
+      \field{journaltitle}{Proc. 4th Int. Symp. Semiconductor and Electronic Technology (ISSET)}
+      \field{title}{Heterogeneous Integration Technology Development and Challenges}
+      \field{year}{2025}
     \endentry
   \enddatalist
 \endrefsection
